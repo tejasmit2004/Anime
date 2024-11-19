@@ -1,4 +1,4 @@
-step 1.Open the Google Colab and select the code file.
+step 1.Open the Google Colab and select the code file.(colab_demo.ipynb)
 
 step 2.Select the image format and run the code.
 
